@@ -25,8 +25,8 @@ Example image:
 * **x**: The X coordinate of the center of the blip.
 * **y**: The Y coordinate of the center of the blip.
 * **z**: The Z coordinate of the center of the blip.
-* **width**: The width of the blip.
-* **height**: The height of the blip.
+* **width**: The width of the blip, must have decimal round. e.g 10.0
+* **height**: The height of the blip, must have decimal round. e.g 10.0
 
 ## Return value
 A handle to the blip.
